@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 c2 line 2
 c2 line 2
 c2 line 2
 c2 line 2
+=======
+c1 line 2
+c1 line 2
+c1 line 2
+c1 line 2
+c1 line 2
+c1 line 2
+c1 line 2
+c1 line 2
+c1 line 2
+c1 line 2
+>>>>>>> c1
