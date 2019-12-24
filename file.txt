@@ -5,10 +5,3 @@ resert 111111111
 resert 111111111
 resert 111111111
 
-Unpacking objects: 100% (3/3), done.
-From https://github.com/722amsudo/lozenko
-   30d8667..608edfb  master     -> origin/master
-Merge made by the 'recursive' strategy.
- remote.txt | 9 +++++++++
- 1 file changed, 9 insertions(+)
- Unpacking objects: 100% (3/3), done.
