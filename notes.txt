@@ -1,9 +1,2 @@
-
-
-https://habrahabr.ru/post/106912/
-
-Win cache: Control Panel -> Account Mgmt -> Credentials Mgmt
-
-
-Unpacking objects: 100% (3/3), done.
+100% (3/3), done.
 From https://github.com/722amsudo/lozenko
