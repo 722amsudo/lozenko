@@ -1,0 +1,186 @@
+[33mcommit 65a258a9629a59a74c2413ef1e34bad16016309a[m[33m ([m[1;36mHEAD -> [m[1;32mremote_branch[m[33m, [m[1;31morigin/remote_branch[m[33m)[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 11:51:12 2019 +0200
+
+    step before_2
+
+[33mcommit 05bea8a5b8c74e301f87ae76438b007cd5704d35[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 11:50:58 2019 +0200
+
+    step before_1
+
+[33mcommit 0127a736ab4bf45d846c779a37092b6ce6839c00[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 11:50:03 2019 +0200
+
+    commit to second branch
+
+[33mcommit 085038bf501af14ed22e519f92cb8a3e08199845[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 9563ffa 1662e67
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 11:42:52 2019 +0200
+
+    merged
+
+[33mcommit 9563ffa4f95792f104f3382652c8d009d6d664bd[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 11:41:36 2019 +0200
+
+    m_1 commited conflict
+
+[33mcommit 1662e671d4c8e22def18b94b15c02e6497abbf3a[m
+Author: 722amsudo <56814490+722amsudo@users.noreply.github.com>
+Date:   Tue Dec 24 11:40:26 2019 +0200
+
+    updated remote conflict file
+
+[33mcommit 261bd4783f2c387415266edca75fbefc3363fe8e[m
+Merge: 78550e7 23439b9
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 11:38:54 2019 +0200
+
+    pull from remote
+    Merge branch 'master' of https://github.com/722amsudo/lozenko
+
+[33mcommit 78550e7c3b9ac1c19650ccfd1417e6b2843287d8[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 11:38:47 2019 +0200
+
+    local conflict file update
+
+[33mcommit 23439b9a8e54690576405a7ebbbb5a75e0919faa[m
+Author: 722amsudo <56814490+722amsudo@users.noreply.github.com>
+Date:   Tue Dec 24 11:37:28 2019 +0200
+
+    udates conflict.txt
+
+[33mcommit 40e7c20dbb3a0973514b7be5a7d73207fc2ed689[m
+Merge: dcca5eb d81148b
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 11:36:17 2019 +0200
+
+    pull from github
+    Merge branch 'master' of https://github.com/722amsudo/lozenko
+
+[33mcommit dcca5eb01a95cdbf38d8965922149f75864af745[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 11:35:32 2019 +0200
+
+    added files
+
+[33mcommit d81148b963d8473d4dcfbe4a54d524f6117c0baf[m
+Author: 722amsudo <56814490+722amsudo@users.noreply.github.com>
+Date:   Tue Dec 24 11:34:18 2019 +0200
+
+    created conflict file
+
+[33mcommit 0293d5be44397dcc9d3cb02b666b6c63438fb434[m
+Merge: d89d3b7 608edfb
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 10:40:32 2019 +0200
+
+    Merge branch 'master' of https//github.com/722amsudo/lozenkgfgfgfo
+
+[33mcommit d89d3b7e9af82705a88f0b6d3e3ba7cb0bae9b22[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 10:40:15 2019 +0200
+
+    added homepage
+
+[33mcommit 608edfb49522b677a1ac1489bc6de5fc4ec7f355[m
+Author: 722amsudo <56814490+722amsudo@users.noreply.github.com>
+Date:   Tue Dec 24 10:39:12 2019 +0200
+
+    Create remote.txt
+
+[33mcommit 30d86677b2cae19569f38adbea7c5c0f2ef1aee3[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Tue Dec 24 10:37:27 2019 +0200
+
+    added test.html
+
+[33mcommit 795a3576af7f8fb715338608bf3440fb354bc382[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 14:46:12 2019 +0200
+
+    reset step2
+
+[33mcommit 5a734341a0e69558e8c9ba113eca637af1fe9680[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 14:45:59 2019 +0200
+
+    reset step1
+
+[33mcommit 56b86355c2d846eb98f00aece1cfd485c020a826[m[33m ([m[1;32mc2[m[33m, [m[1;32mc1[m[33m)[m
+Merge: 19e5dfb 0ffa3f6
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 14:31:09 2019 +0200
+
+    merged
+
+[33mcommit 19e5dfbffc5d701613460d9b38cb8d7debb858c6[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 14:21:38 2019 +0200
+
+    c2 branch second commit
+
+[33mcommit 30db48404694df34278d2772d744c4cda4eba4e5[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 14:21:22 2019 +0200
+
+    c2 branch first commit
+
+[33mcommit 0ffa3f6c4c7f457391959fcc266fb816f09502f1[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 14:19:30 2019 +0200
+
+    c1 line c2
+
+[33mcommit c49b6e4cee6f311394b1154e3257923723f4e3d8[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 14:19:04 2019 +0200
+
+    c1 line c1
+
+[33mcommit 6c5c3a0f33e3107e79bba25e1a36b3bab02c2f09[m[33m ([m[1;32mb1[m[33m)[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 14:02:24 2019 +0200
+
+    last commit b1
+
+[33mcommit 1dbe75a7e9b7e8d071b6ebe97c878fa541ce4a87[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 14:01:08 2019 +0200
+
+    branch b1 firts commit
+
+[33mcommit 8481c7183881b22c0ddd85d8dbaf43f416a7ae10[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 12:47:49 2019 +0200
+
+    reset complete
+
+[33mcommit 3c4d93f2f121dc7200d98de5def9a80bd0cb728c[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 11:39:04 2019 +0200
+
+    xxx
+
+[33mcommit a4653800743ef302595746d03278aef888483257[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 11:36:07 2019 +0200
+
+    third commit
+
+[33mcommit 56a690ceed819ce87edd22ad5fc6f2b06b1c8fe9[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 11:33:26 2019 +0200
+
+    second commit
+
+[33mcommit 839fc10834527dc918ad18857139eadb20334aef[m
+Author: Argo18 <argo18@ptc.local>
+Date:   Mon Dec 23 11:26:56 2019 +0200
+
+    first commit
