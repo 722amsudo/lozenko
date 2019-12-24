@@ -1,0 +1,7 @@
+
+r     -> origin/master
+Merge made by the 'recursive' strategy.
+ remote.txt | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+Unpacking objects: 100% (3/3), done.

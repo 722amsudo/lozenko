@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-firts linneeee
+
 firts linneeee
 
 firts linneeee
@@ -29,5 +28,4 @@ fd
 fd
 fd
 f
-dfdf
 
